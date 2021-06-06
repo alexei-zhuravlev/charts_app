@@ -11,7 +11,7 @@ from PIL import Image
 from datetime import date, datetime
 import matplotlib.pyplot as plt
 from mpl_toolkits.axes_grid1.inset_locator import inset_axes, mark_inset
-from bokeh.plotting import figure
+
 
 # -- Set page config
 apptitle = 'Charts by UMD'
